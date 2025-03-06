@@ -4,3 +4,5 @@ files/
 .idea/
 **/.idea/
 communication/
+__pycache__/
+*.pyc
